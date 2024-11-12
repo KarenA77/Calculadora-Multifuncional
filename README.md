@@ -1,7 +1,8 @@
 # Calculadora-Multifuncional
-Primer Semestre 2020
-Introducción a la Programación y Computación 1
-Universidad de San Carlos de Guatemala -USAC-
+<h6> Primer Semestre 2021
+     Universidad de San Carlos de Guatemala -USAC- 
+     Introducción a la Programación y Computación 2 
+</h6>
 
 Este proyecto fue desarrollado en JAVA es una calculadora matemática que ofrece una amplia gama de funcionalidades algebraicas, aritméticas y trigonométricas. 
 
